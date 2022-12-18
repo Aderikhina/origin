@@ -1,0 +1,15 @@
+/Users/tanyaaderikhina/Desktop/example/example004_Div/bin/Debug/net6.0/example004_Div
+/Users/tanyaaderikhina/Desktop/example/example004_Div/bin/Debug/net6.0/example004_Div.deps.json
+/Users/tanyaaderikhina/Desktop/example/example004_Div/bin/Debug/net6.0/example004_Div.runtimeconfig.json
+/Users/tanyaaderikhina/Desktop/example/example004_Div/bin/Debug/net6.0/example004_Div.dll
+/Users/tanyaaderikhina/Desktop/example/example004_Div/bin/Debug/net6.0/example004_Div.pdb
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/example004_Div.csproj.AssemblyReference.cache
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/example004_Div.AssemblyInfoInputs.cache
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/example004_Div.AssemblyInfo.cs
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/example004_Div.csproj.CoreCompileInputs.cache
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/example004_Div.dll
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/refint/example004_Div.dll
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/example004_Div.pdb
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/example004_Div.genruntimeconfig.cache
+/Users/tanyaaderikhina/Desktop/example/example004_Div/obj/Debug/net6.0/ref/example004_Div.dll
